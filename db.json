@@ -1,27 +1,11 @@
 [
     {
-       "type":"header",
-       "version":"5.2.0",
-       "comment":"Export to JSON plugin for PHPMyAdmin"
-    },
-    {
-       "type":"database",
-       "name":"ws_db"
-    },
-    {
-       "type":"table",
-       "name":"ws_application_tbl",
-       "database":"ws_db",
-       "data":[
-          {
-             "id":"8",
-             "application_no":"2013-010-057",
-             "application_date":"2019-12-02",
-             "lname":"Matibag",
-             "mname":"V.",
-             "fname":"Edwin",
-             "consumer_type":"Residential"
-          }
-       ]
+       "id":"8",
+       "application_no":"2013-010-057",
+       "application_date":"2019-12-02",
+       "lname":"Matibag",
+       "mname":"V.",
+       "fname":"Edwin",
+       "consumer_type":"Residential"
     }
  ]
